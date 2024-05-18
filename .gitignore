@@ -1,0 +1,3 @@
+env/
+movie_reservation_system/movie_reservation_system/.env
+movie_reservation_system/db.sqlite3
